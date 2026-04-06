@@ -60,7 +60,6 @@ On-Prem SQL Server → Azure Data Factory → ADLS (Bronze) → Databricks (Silv
 
 ### 🔹 Silver Layer
 - Data cleaning and transformation in **Databricks**  
-- Incremental processing using watermark logic  
 - Deduplication and schema enforcement
 
 ### 🔹 Gold Layer
@@ -78,7 +77,6 @@ On-Prem SQL Server → Azure Data Factory → ADLS (Bronze) → Databricks (Silv
 - End-to-end **Azure-based ETL pipeline**  
 - Secure connection from on-prem SQL to cloud (ADF + Integration Runtime)  
 - Medallion architecture (Bronze, Silver, Gold)  
-- Incremental data processing with watermark logic  
 - Delta Lake MERGE operations for upserts  
 - Modular, scalable, production-ready design
 
