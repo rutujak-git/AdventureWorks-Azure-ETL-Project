@@ -100,4 +100,6 @@ https://youtu.be/XYQU5ZMuMuE?si=cnu81JOI8gi_puK_
 ---
 
 ## 📌 Dataset 
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmM0SmtudFg1RUZ0RG8ya0F2S0xyMzM1Z0tTZ3xBQ3Jtc0ttU0VkY0VBNU5Ha3F2N0lBVDNFeFRIUXhJMW94cGZzOWRnN2gtY1BpaDZmUWQ2RGluemJaT1p6cWRtaHpSTDF0Y3pEdXhEQzVLTGlGazdwM2dra2dSZlBCVFN1UGtXT2NWV1lDb1JFRlRNclBaMkk5bw&q=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fsql%2Fsamples%2Fadventureworks-install-configure%3Fview%3Dsql-server-ver16%26tabs%3Dssms&v=XYQU5ZMuMuE
+
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
